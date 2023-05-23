@@ -1,4 +1,4 @@
-My Favourites changed => Foods
+My Favourites changed also => Foods
 - My Favourite Foods are:
     Fish
     Chicken
